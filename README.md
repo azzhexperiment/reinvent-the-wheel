@@ -1,2 +1,3 @@
-# reinventing-the-wheel
-A repo to house all codes that are meant to reinvent the wheel, for my own learning sake.
+# Reinvent the Wheel
+
+Learn by doing. Reinvent the wheel to learn why they made it round, not square.
